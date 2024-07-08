@@ -22,6 +22,7 @@ public class Array {
         System.out.println("Length :" + number.length);
         System.out.println("Sum is :" + sum);
         System.out.println("Avarage is :" + avg);
+
         
         double max=number[0];
         double min=number[0];
@@ -40,4 +41,3 @@ public class Array {
         System.out.println("Minimum Number is :"+min);
     }
 }
-
